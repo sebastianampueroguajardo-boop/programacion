@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+pandas
+base64
+re
